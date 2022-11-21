@@ -13,6 +13,8 @@ List of stuff on the web I think is worth keeping
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 
 ## Graph-Tech
+[TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
+[ML inspiration for Graphs](https://blog.vaticle.com/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9)
 
 ## Coding
 - [Learn Python 3](https://github.com/jerry-git/learn-python3)
