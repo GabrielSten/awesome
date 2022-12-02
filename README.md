@@ -22,3 +22,4 @@ List of awesome stuff on the web I think is worth keeping
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
+- [Hand drawn sketch tool](https://github.com/excalidraw/excalidraw)
