@@ -12,6 +12,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Educational Implementation of Algorithms in Python](https://github.com/TheAlgorithms/Python)
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 - [Physics Informed NN](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
+- [Deep Reinforcement Learning](https://github.com/Hadar933/Deep-Reinforcement-Learning)
 
 ## Graph-Tech
 - [TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
