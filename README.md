@@ -5,6 +5,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Data Science](#Data-Science)
 - [Graph Tech](#Graph-Tech)
 - [Coding](#Coding)
+- [Linux](#Linux)
 - [More Awesome](#More-Awesome)
 
 ## Data-Science
@@ -20,6 +21,9 @@ List of awesome stuff on the web I think is worth keeping
 
 ## Coding
 - [Learn Python 3](https://github.com/jerry-git/learn-python3)
+
+## Linux
+- [Proxmox Beginners Guide](https://github.com/vzamora/Proxmox-Cheatsheet)
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
