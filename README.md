@@ -21,10 +21,11 @@ List of awesome stuff on the web I think is worth keeping
 
 ## Coding
 - [Learn Python 3](https://github.com/jerry-git/learn-python3)
+- [Efficient Python Coding](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
 ## Linux
 - [Proxmox Beginners Guide](https://github.com/vzamora/Proxmox-Cheatsheet)
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
-- [Hand drawn sketch tool](https://github.com/excalidraw/excalidraw)
+- [Hand Drawn Sketch Tool](https://github.com/excalidraw/excalidraw)
