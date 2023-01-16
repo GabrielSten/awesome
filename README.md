@@ -21,6 +21,7 @@ List of awesome stuff on the web I think is worth keeping
 ## Graph-Tech
 - [TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
 - [ML inspiration for Graphs](https://blog.vaticle.com/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9)
+- [20 Graph Algos and Example Uses](https://memgraph.com/blog/graph-algorithms-applications#toc-12)
 
 ## Coding
 - [Learn Python 3](https://github.com/jerry-git/learn-python3)
