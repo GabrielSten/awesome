@@ -16,6 +16,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Deep Reinforcement Learning](https://github.com/Hadar933/Deep-Reinforcement-Learning)
 - [Reinforcement Learning](https://mlu-explain.github.io/reinforcement-learning/)
 - [ML visualized](https://mlu-explain.github.io)
+- [Aalto Course - Advanced Probablistic Methods](https://fartaha.github.io/ml-advanced-probabilistic-methods/)
 
 ## Graph-Tech
 - [TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
