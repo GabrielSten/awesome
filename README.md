@@ -34,3 +34,4 @@ List of awesome stuff on the web I think is worth keeping
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
 - [Hand Drawn Sketch Tool](https://github.com/excalidraw/excalidraw)
 - [The Harvard Guide for a Resume](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- [Diagrams in HTML](https://reactflow.dev/docs/examples/overview/)
