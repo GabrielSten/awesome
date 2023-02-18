@@ -18,6 +18,7 @@ List of awesome stuff on the web I think is worth keeping
 - [ML visualized](https://mlu-explain.github.io)
 - [Aalto Course - Advanced Probablistic Methods](https://fartaha.github.io/ml-advanced-probabilistic-methods/)
 - [ChatGPT in 60 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [Free book on deeplearning](https://www.deeplearningbook.org/)
 
 ## Graph-Tech
 - [TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
