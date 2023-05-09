@@ -6,6 +6,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Graph Tech](#Graph-Tech)
 - [Coding](#Coding)
 - [Linux](#Linux)
+- [Front End](#Front-End)
 - [More Awesome](#More-Awesome)
 
 ## Data-Science
@@ -34,6 +35,11 @@ List of awesome stuff on the web I think is worth keeping
 
 ## Linux
 - [Proxmox Beginners Guide](https://github.com/vzamora/Proxmox-Cheatsheet)
+
+## Front-End
+- [SVGs feather](https://feathericons.com/)
+- [SVGs tabler](https://tablericons.com/)
+- [SVGs phosphor](https://tablericons.com/)
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
