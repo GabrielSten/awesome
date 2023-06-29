@@ -33,6 +33,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Learn Python 3](https://github.com/jerry-git/learn-python3)
 - [Efficient Python Coding](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 - [Book on JavaScript](https://eloquentjavascript.net/)
+- [Go roadmap](https://roadmap.sh/golang)
 
 ## Linux
 - [Proxmox Beginners Guide](https://github.com/vzamora/Proxmox-Cheatsheet)
