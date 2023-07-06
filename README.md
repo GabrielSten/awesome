@@ -7,6 +7,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Coding](#Coding)
 - [Linux](#Linux)
 - [Front End](#Front-End)
+- [Distributed Systems](#Distributed-Systems)
 - [More Awesome](#More-Awesome)
 
 ## Data-Science
@@ -42,6 +43,10 @@ List of awesome stuff on the web I think is worth keeping
 - [SVGs feather](https://feathericons.com/)
 - [SVGs tabler](https://tablericons.com/)
 - [SVGs phosphor](https://tablericons.com/)
+
+## Distributed-Systems
+- [MIT Distributed Systems course](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB#distributed)
+- [Effective Go](https://go.dev/doc/effective_go)
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
