@@ -24,6 +24,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Book on ML with PyTorch](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 - [DS awesome](https://github.com/Developer-Y/cs-video-courses)
 - [Computer Vision Roboflow](https://github.com/roboflow/notebooks)
+- [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 ## Graph-Tech
 - [TypeDB with PyTorch](https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806)
