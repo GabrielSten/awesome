@@ -48,6 +48,7 @@ List of awesome stuff on the web I think is worth keeping
 ## Distributed-Systems
 - [MIT Distributed Systems course](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB#distributed)
 - [Effective Go](https://go.dev/doc/effective_go)
+- [Kubebuilder: Intro to K8](https://book.kubebuilder.io/introduction.html)
 
 ## More-Awesome
 - [Sindresorhus's Awesome](https://github.com/sindresorhus/awesome/blob/main/readme.md)
