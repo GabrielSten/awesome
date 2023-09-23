@@ -36,6 +36,7 @@ List of awesome stuff on the web I think is worth keeping
 - [Efficient Python Coding](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 - [Book on JavaScript](https://eloquentjavascript.net/)
 - [Go roadmap](https://roadmap.sh/golang)
+- [go generate types from sql](https://github.com/kyleconroy/sqlc?utm_campaign=awesomego&utm_medium=referral&utm_source=awesomego)
 
 ## Linux
 - [Proxmox Beginners Guide](https://github.com/vzamora/Proxmox-Cheatsheet)
