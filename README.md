@@ -60,3 +60,4 @@ List of awesome stuff on the web I think is worth keeping
 - [The Harvard Guide for a Resume](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 - [Diagrams in HTML](https://reactflow.dev/docs/examples/overview/)
 - [APIs gRPC](https://cloud.google.com/apis/design)
+- [Everything Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
