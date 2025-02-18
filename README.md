@@ -61,3 +61,4 @@ List of awesome stuff on the web I think is worth keeping
 - [Diagrams in HTML](https://reactflow.dev/docs/examples/overview/)
 - [APIs gRPC](https://cloud.google.com/apis/design)
 - [Everything Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+- [Geolocation API](https://nominatim.org/release-docs/latest/)
